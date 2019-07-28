@@ -1,0 +1,1 @@
+44 echo "babbbbaabababaabbababaababaabbaabababbaaababbababaaaaaabbabaaaabababbabbababbbaaaababbbabbbbbbbbbbaabbb" | grep "b**bb**a**bba*b**a*bbb**aba***babbb*aa****aabb*bbb***a"
